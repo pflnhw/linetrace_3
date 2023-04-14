@@ -162,8 +162,8 @@ void stop() {
 void turn(){
   //유턴
   digitalWrite(motor_A1, LOW);
-  digitalWrite(motor_A2, LOW);
-  digitalWrite(motor_B1, LOW);
-  digitalWrite(motor_B2, HIGH);
-  delay(1500);
+  digitalWrite(motor_A2, HIGH);
+  digitalWrite(motor_B1, HIGH);
+  digitalWrite(motor_B2, LOW);
+  delay(1400);
 }
