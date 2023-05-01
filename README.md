@@ -2,7 +2,7 @@
 
 <hr/>
 
-인원 : 1명
+인원 : 1명 <br/>
 기술 스택 : C++, Arduino, Github
 
 <hr/>
